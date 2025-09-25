@@ -38,9 +38,13 @@ You can copy-paste these 4 files
 
 ## 📂 Project Structure
 LibraryManagement/
+
 ├── Book.java
+
 ├── User.java
+
 ├── Library.java
+
 └── Main.java 
 
 ---
@@ -84,21 +88,25 @@ Available Books:
 - Data Structures by Donald Knuth (Available)
 
 --- Library Menu ---
+
 Enter choice: 2
 Enter book title to issue: Java Basics
 Book issued: Java Basics by James Gosling (Issued)
 
 --- Library Menu ---
+
 Enter choice: 4
 John Doe's issued books:
 - Java Basics by James Gosling (Issued)
 
 --- Library Menu ---
+
 Enter choice: 3
 Enter book title to return: Java Basics
 Book returned: Java Basics by James Gosling (Available)
 
 --- Library Menu ---
+
 Enter choice: 5
 Exiting... Thank you!
 
